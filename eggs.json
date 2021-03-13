@@ -1,0 +1,1354 @@
+[
+  {
+    "no": 58,
+    "name": "卡蒂狗",
+    "originalName": "Growlithe",
+    "category": "2km",
+    "cp": {
+      "min": 660,
+      "max": 710
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_058_00.png"
+  },
+  {
+    "no": 104,
+    "name": "卡拉卡拉",
+    "originalName": "Cubone",
+    "category": "2km",
+    "cp": {
+      "min": 536,
+      "max": 582
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_104_00.png"
+  },
+  {
+    "no": 129,
+    "name": "鯉魚王",
+    "originalName": "Magikarp",
+    "category": "2km",
+    "cp": {
+      "min": 132,
+      "max": 157
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_129_00.png"
+  },
+  {
+    "no": 187,
+    "name": "毽子草",
+    "originalName": "Hoppip",
+    "category": "2km",
+    "cp": {
+      "min": 308,
+      "max": 342
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_187_00.png"
+  },
+  {
+    "no": 194,
+    "name": "烏波",
+    "originalName": "Wooper",
+    "category": "2km",
+    "cp": {
+      "min": 330,
+      "max": 366
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_194_00.png"
+  },
+  {
+    "no": 206,
+    "name": "土龍弟弟",
+    "originalName": "Dunsparce",
+    "category": "2km",
+    "cp": {
+      "min": 906,
+      "max": 965
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_206_00.png"
+  },
+  {
+    "no": 252,
+    "name": "木守宮",
+    "originalName": "Treecko",
+    "category": "2km",
+    "cp": {
+      "min": 556,
+      "max": 601
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_252_00.png"
+  },
+  {
+    "no": 255,
+    "name": "火稚雞",
+    "originalName": "Torchic",
+    "category": "2km",
+    "cp": {
+      "min": 578,
+      "max": 624
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_255_00.png"
+  },
+  {
+    "no": 258,
+    "name": "水躍魚",
+    "originalName": "Mudkip",
+    "category": "2km",
+    "cp": {
+      "min": 597,
+      "max": 644
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_258_00.png"
+  },
+  {
+    "no": 307,
+    "name": "瑪沙那",
+    "originalName": "Meditite",
+    "category": "2km",
+    "cp": {
+      "min": 359,
+      "max": 396
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_307_00.png"
+  },
+  {
+    "no": 313,
+    "name": "電螢蟲",
+    "originalName": "Volbeat",
+    "category": "2km",
+    "cp": {
+      "min": 952,
+      "max": 1012
+    },
+    "shinyAvailable": true,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_313_00.png"
+  },
+  {
+    "no": 314,
+    "name": "甜甜螢",
+    "originalName": "Illumise",
+    "category": "2km",
+    "cp": {
+      "min": 952,
+      "max": 1012
+    },
+    "shinyAvailable": true,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_314_00.png"
+  },
+  {
+    "no": 320,
+    "name": "吼吼鯨",
+    "originalName": "Wailmer",
+    "category": "2km",
+    "cp": {
+      "min": 779,
+      "max": 838
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_320_00.png"
+  },
+  {
+    "no": 325,
+    "name": "跳跳豬",
+    "originalName": "Spoink",
+    "category": "2km",
+    "cp": {
+      "min": 711,
+      "max": 762
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_325_00.png"
+  },
+  {
+    "no": 333,
+    "name": "青綿鳥",
+    "originalName": "Swablu",
+    "category": "2km",
+    "cp": {
+      "min": 429,
+      "max": 470
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_333_00.png"
+  },
+  {
+    "no": 406,
+    "name": "含羞苞",
+    "originalName": "Budew",
+    "category": "2km",
+    "cp": {
+      "min": 448,
+      "max": 489
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_406_00.png"
+  },
+  {
+    "no": 572,
+    "name": "泡沫栗鼠",
+    "originalName": "Minccino",
+    "category": "2km",
+    "cp": {
+      "min": 456,
+      "max": 498
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_572_00.png"
+  },
+  {
+    "no": 659,
+    "name": "掘掘兔",
+    "originalName": "Bunnelby",
+    "category": "2km",
+    "cp": {
+      "min": 282,
+      "max": 316
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_659_00.png"
+  },
+  {
+    "no": 661,
+    "name": "小箭雀",
+    "originalName": "Fletchling",
+    "category": "2km",
+    "cp": {
+      "min": 417,
+      "max": 457
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_661_00.png"
+  },
+  {
+    "no": 667,
+    "name": "小獅獅",
+    "originalName": "Litleo",
+    "category": "2km",
+    "cp": {
+      "min": 761,
+      "max": 814
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_667_00.png"
+  },
+  {
+    "no": 83,
+    "name": "大蔥鴨 (關都地區)",
+    "originalName": "Farfetch'd",
+    "category": "5km",
+    "cp": {
+      "min": 657,
+      "max": 706
+    },
+    "shinyAvailable": true,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_083_00.png"
+  },
+  {
+    "no": 100,
+    "name": "霹靂電球",
+    "originalName": "Voltorb",
+    "category": "5km",
+    "cp": {
+      "min": 532,
+      "max": 577
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_100_00.png"
+  },
+  {
+    "no": 108,
+    "name": "大舌頭",
+    "originalName": "Lickitung",
+    "category": "5km",
+    "cp": {
+      "min": 752,
+      "max": 806
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_108_00.png"
+  },
+  {
+    "no": 115,
+    "name": "袋獸",
+    "originalName": "Kangaskhan",
+    "category": "5km",
+    "cp": {
+      "min": 1405,
+      "max": 1477
+    },
+    "shinyAvailable": true,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_115_00.png"
+  },
+  {
+    "no": 123,
+    "name": "飛天螳螂",
+    "originalName": "Scyther",
+    "category": "5km",
+    "cp": {
+      "min": 1472,
+      "max": 1546
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_123_00.png"
+  },
+  {
+    "no": 128,
+    "name": "肯泰羅",
+    "originalName": "Tauros",
+    "category": "5km",
+    "cp": {
+      "min": 1425,
+      "max": 1497
+    },
+    "shinyAvailable": true,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_128_00.png"
+  },
+  {
+    "no": 133,
+    "name": "伊布",
+    "originalName": "Eevee",
+    "category": "5km",
+    "cp": {
+      "min": 565,
+      "max": 612
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_133_00.png"
+  },
+  {
+    "no": 204,
+    "name": "榛果球",
+    "originalName": "Pineco",
+    "category": "5km",
+    "cp": {
+      "min": 586,
+      "max": 633
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_204_00.png"
+  },
+  {
+    "no": 214,
+    "name": "赫拉克羅斯",
+    "originalName": "Heracross",
+    "category": "5km",
+    "cp": {
+      "min": 1693,
+      "max": 1772
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_214_00.png"
+  },
+  {
+    "no": 222,
+    "name": "太陽珊瑚",
+    "originalName": "Corsola",
+    "category": "5km",
+    "cp": {
+      "min": 735,
+      "max": 787
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_222_00.png"
+  },
+  {
+    "no": 280,
+    "name": "拉魯拉絲",
+    "originalName": "Ralts",
+    "category": "5km",
+    "cp": {
+      "min": 275,
+      "max": 308
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_280_00.png"
+  },
+  {
+    "no": 298,
+    "name": "露力麗",
+    "originalName": "Azurill",
+    "category": "5km",
+    "cp": {
+      "min": 179,
+      "max": 208
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_298_00.png"
+  },
+  {
+    "no": 324,
+    "name": "煤炭龜",
+    "originalName": "Torkoal",
+    "category": "5km",
+    "cp": {
+      "min": 1131,
+      "max": 1196
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_324_00.png"
+  },
+  {
+    "no": 349,
+    "name": "醜醜魚",
+    "originalName": "Feebas",
+    "category": "5km",
+    "cp": {
+      "min": 132,
+      "max": 157
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_349_00.png"
+  },
+  {
+    "no": 357,
+    "name": "熱帶龍",
+    "originalName": "Tropius",
+    "category": "5km",
+    "cp": {
+      "min": 1046,
+      "max": 1109
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_357_00.png"
+  },
+  {
+    "no": 366,
+    "name": "珍珠貝",
+    "originalName": "Clamperl",
+    "category": "5km",
+    "cp": {
+      "min": 675,
+      "max": 726
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_366_00.png"
+  },
+  {
+    "no": 369,
+    "name": "古空棘魚",
+    "originalName": "Relicanth",
+    "category": "5km",
+    "cp": {
+      "min": 1373,
+      "max": 1444
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_369_00.png"
+  },
+  {
+    "no": 417,
+    "name": "帕奇利茲",
+    "originalName": "Pachirisu",
+    "category": "5km",
+    "cp": {
+      "min": 643,
+      "max": 693
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_417_00.png"
+  },
+  {
+    "no": 439,
+    "name": "魔尼尼",
+    "originalName": "Mime Jr.",
+    "category": "5km",
+    "cp": {
+      "min": 578,
+      "max": 626
+    },
+    "shinyAvailable": true,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_439_00.png"
+  },
+  {
+    "no": 441,
+    "name": "聒噪鳥",
+    "originalName": "Chatot",
+    "category": "5km",
+    "cp": {
+      "min": 961,
+      "max": 1023
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_441_00.png"
+  },
+  {
+    "no": 455,
+    "name": "尖牙籠",
+    "originalName": "Carnivine",
+    "category": "5km",
+    "cp": {
+      "min": 1167,
+      "max": 1233
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_455_00.png"
+  },
+  {
+    "no": 511,
+    "name": "花椰猴",
+    "originalName": "Pansage",
+    "category": "5km",
+    "cp": {
+      "min": 503,
+      "max": 546
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_511_00.png"
+  },
+  {
+    "no": 513,
+    "name": "爆香猴",
+    "originalName": "Pansear",
+    "category": "5km",
+    "cp": {
+      "min": 503,
+      "max": 546
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_513_00.png"
+  },
+  {
+    "no": 515,
+    "name": "冷水猴",
+    "originalName": "Panpour",
+    "category": "5km",
+    "cp": {
+      "min": 503,
+      "max": 546
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_515_00.png"
+  },
+  {
+    "no": 522,
+    "name": "斑斑馬",
+    "originalName": "Blitzle",
+    "category": "5km",
+    "cp": {
+      "min": 461,
+      "max": 504
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_522_00.png"
+  },
+  {
+    "no": 524,
+    "name": "石丸子",
+    "originalName": "Roggenrola",
+    "category": "5km",
+    "cp": {
+      "min": 639,
+      "max": 688
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_524_00.png"
+  },
+  {
+    "no": 556,
+    "name": "沙鈴仙人掌",
+    "originalName": "Maractus",
+    "category": "5km",
+    "cp": {
+      "min": 1231,
+      "max": 1299
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_556_00.png"
+  },
+  {
+    "no": 574,
+    "name": "哥德寶寶",
+    "originalName": "Gothita",
+    "category": "5km",
+    "cp": {
+      "min": 500,
+      "max": 543
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_574_00.png"
+  },
+  {
+    "no": 577,
+    "name": "單卵細胞球",
+    "originalName": "Solosis",
+    "category": "5km",
+    "cp": {
+      "min": 727,
+      "max": 781
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_577_00.png"
+  },
+  {
+    "no": 626,
+    "name": "爆炸頭水牛",
+    "originalName": "Bouffalant",
+    "category": "5km",
+    "cp": {
+      "min": 1524,
+      "max": 1598
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_626_00.png"
+  },
+  {
+    "no": 650,
+    "name": "哈力栗",
+    "originalName": "Chespin",
+    "category": "5km",
+    "cp": {
+      "min": 579,
+      "max": 626
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_650_00.png"
+  },
+  {
+    "no": 653,
+    "name": "火狐狸",
+    "originalName": "Fennekin",
+    "category": "5km",
+    "cp": {
+      "min": 542,
+      "max": 587
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_653_00.png"
+  },
+  {
+    "no": 656,
+    "name": "呱呱泡蛙",
+    "originalName": "Froakie",
+    "category": "5km",
+    "cp": {
+      "min": 522,
+      "max": 567
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_656_00.png"
+  },
+  {
+    "no": 403,
+    "name": "小貓怪",
+    "originalName": "Shinx",
+    "category": "時時刻刻冒險 5km",
+    "cp": {
+      "min": 458,
+      "max": 500
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_403_00.png"
+  },
+  {
+    "no": 574,
+    "name": "哥德寶寶",
+    "originalName": "Gothita",
+    "category": "時時刻刻冒險 5km",
+    "cp": {
+      "min": 500,
+      "max": 543
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_574_00.png"
+  },
+  {
+    "no": 577,
+    "name": "單卵細胞球",
+    "originalName": "Solosis",
+    "category": "時時刻刻冒險 5km",
+    "cp": {
+      "min": 727,
+      "max": 781
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_577_00.png"
+  },
+  {
+    "no": 588,
+    "name": "蓋蓋蟲",
+    "originalName": "Karrablast",
+    "category": "時時刻刻冒險 5km",
+    "cp": {
+      "min": 626,
+      "max": 675
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_588_00.png"
+  },
+  {
+    "no": 595,
+    "name": "電電蟲",
+    "originalName": "Joltik",
+    "category": "時時刻刻冒險 5km",
+    "cp": {
+      "min": 539,
+      "max": 584
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_595_00.png"
+  },
+  {
+    "no": 616,
+    "name": "小嘴蝸",
+    "originalName": "Shelmet",
+    "category": "時時刻刻冒險 5km",
+    "cp": {
+      "min": 434,
+      "max": 476
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_616_00.png"
+  },
+  {
+    "no": 27,
+    "name": "穿山鼠 (阿羅拉地區)",
+    "originalName": "Alolan Sandshrew",
+    "category": "7km",
+    "cp": {
+      "min": 688,
+      "max": 739
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_027_61.png"
+  },
+  {
+    "no": 37,
+    "name": "六尾 (阿羅拉地區)",
+    "originalName": "Alolan Vulpix",
+    "category": "7km",
+    "cp": {
+      "min": 463,
+      "max": 504
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_037_61.png"
+  },
+  {
+    "no": 50,
+    "name": "地鼠 (阿羅拉地區)",
+    "originalName": "Alolan Diglett",
+    "category": "7km",
+    "cp": {
+      "min": 352,
+      "max": 389
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_050_61.png"
+  },
+  {
+    "no": 52,
+    "name": "喵喵 (阿羅拉地區)",
+    "originalName": "Alolan Meowth",
+    "category": "7km",
+    "cp": {
+      "min": 416,
+      "max": 455
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_052_61.png"
+  },
+  {
+    "no": 52,
+    "name": "喵喵 (伽勒爾地區)",
+    "originalName": "Galarian Meowth",
+    "category": "7km",
+    "cp": {
+      "min": 546,
+      "max": 591
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_052_31.png"
+  },
+  {
+    "no": 74,
+    "name": "小拳石 (阿羅拉地區)",
+    "originalName": "Alolan Geodude",
+    "category": "7km",
+    "cp": {
+      "min": 688,
+      "max": 739
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_074_61.png"
+  },
+  {
+    "no": 77,
+    "name": "小火馬 (伽勒爾地區)",
+    "originalName": "Galarian Ponyta",
+    "category": "7km",
+    "cp": {
+      "min": 911,
+      "max": 969
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_077_31.png"
+  },
+  {
+    "no": 83,
+    "name": "大蔥鴨 (伽勒爾地區)",
+    "originalName": "Galarian Farfetch'd",
+    "category": "7km",
+    "cp": {
+      "min": 898,
+      "max": 956
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_083_31.png"
+  },
+  {
+    "no": 88,
+    "name": "臭泥 (阿羅拉地區)",
+    "originalName": "Alolan Grimer",
+    "category": "7km",
+    "cp": {
+      "min": 731,
+      "max": 785
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_088_61.png"
+  },
+  {
+    "no": 263,
+    "name": "蛇紋熊 (伽勒爾地區)",
+    "originalName": "Galarian Zigzagoon",
+    "category": "7km",
+    "cp": {
+      "min": 258,
+      "max": 290
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_263_31.png"
+  },
+  {
+    "no": 554,
+    "name": "火紅不倒翁 (伽勒爾地區)",
+    "originalName": "Galarian Darumaka",
+    "category": "7km",
+    "cp": {
+      "min": 768,
+      "max": 823
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_554_31.png"
+  },
+  {
+    "no": 618,
+    "name": "泥巴魚 (伽勒爾地區)",
+    "originalName": "Galarian Stunfisk",
+    "category": "7km",
+    "cp": {
+      "min": 1169,
+      "max": 1235
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_618_31.png"
+  },
+  {
+    "no": 290,
+    "name": "土居忍士",
+    "originalName": "Nincada",
+    "category": "10km",
+    "cp": {
+      "min": 399,
+      "max": 439
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_290_00.png"
+  },
+  {
+    "no": 403,
+    "name": "小貓怪",
+    "originalName": "Shinx",
+    "category": "10km",
+    "cp": {
+      "min": 458,
+      "max": 500
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_403_00.png"
+  },
+  {
+    "no": 443,
+    "name": "圓陸鯊",
+    "originalName": "Gible",
+    "category": "10km",
+    "cp": {
+      "min": 588,
+      "max": 635
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_443_00.png"
+  },
+  {
+    "no": 447,
+    "name": "利歐路",
+    "originalName": "Riolu",
+    "category": "10km",
+    "cp": {
+      "min": 522,
+      "max": 567
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_447_00.png"
+  },
+  {
+    "no": 531,
+    "name": "差不多娃娃",
+    "originalName": "Audino",
+    "category": "10km",
+    "cp": {
+      "min": 901,
+      "max": 961
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_531_00.png"
+  },
+  {
+    "no": 532,
+    "name": "搬運小匠",
+    "originalName": "Timburr",
+    "category": "10km",
+    "cp": {
+      "min": 699,
+      "max": 751
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_532_00.png"
+  },
+  {
+    "no": 554,
+    "name": "火紅不倒翁 (合眾地區)",
+    "originalName": "Darumaka",
+    "category": "10km",
+    "cp": {
+      "min": 768,
+      "max": 823
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_554_00.png"
+  },
+  {
+    "no": 561,
+    "name": "象徵鳥",
+    "originalName": "Sigilyph",
+    "category": "10km",
+    "cp": {
+      "min": 1385,
+      "max": 1457
+    },
+    "shinyAvailable": false,
+    "regional": true,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_561_00.png"
+  },
+  {
+    "no": 587,
+    "name": "電飛鼠",
+    "originalName": "Emolga",
+    "category": "10km",
+    "cp": {
+      "min": 876,
+      "max": 933
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_587_00.png"
+  },
+  {
+    "no": 594,
+    "name": "保母曼波",
+    "originalName": "Alomomola",
+    "category": "10km",
+    "cp": {
+      "min": 1170,
+      "max": 1239
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_594_00.png"
+  },
+  {
+    "no": 599,
+    "name": "齒輪兒",
+    "originalName": "Klink",
+    "category": "10km",
+    "cp": {
+      "min": 502,
+      "max": 546
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_599_00.png"
+  },
+  {
+    "no": 607,
+    "name": "燭光靈",
+    "originalName": "Litwick",
+    "category": "10km",
+    "cp": {
+      "min": 530,
+      "max": 575
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_607_00.png"
+  },
+  {
+    "no": 610,
+    "name": "牙牙",
+    "originalName": "Axew",
+    "category": "10km",
+    "cp": {
+      "min": 729,
+      "max": 782
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_610_00.png"
+  },
+  {
+    "no": 622,
+    "name": "泥偶小人",
+    "originalName": "Golett",
+    "category": "10km",
+    "cp": {
+      "min": 630,
+      "max": 679
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_622_00.png"
+  },
+  {
+    "no": 627,
+    "name": "毛頭小鷹",
+    "originalName": "Rufflet",
+    "category": "10km",
+    "cp": {
+      "min": 796,
+      "max": 852
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_627_00.png"
+  },
+  {
+    "no": 677,
+    "name": "妙喵",
+    "originalName": "Espurr",
+    "category": "10km",
+    "cp": {
+      "min": 669,
+      "max": 719
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_677_00.png"
+  },
+  {
+    "no": 714,
+    "name": "嗡蝠",
+    "originalName": "Noibat",
+    "category": "10km",
+    "cp": {
+      "min": 344,
+      "max": 381
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_714_00.png"
+  },
+  {
+    "no": 371,
+    "name": "寶貝龍",
+    "originalName": "Bagon",
+    "category": "時時刻刻冒險 10km",
+    "cp": {
+      "min": 612,
+      "max": 660
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_371_00.png"
+  },
+  {
+    "no": 374,
+    "name": "鐵啞鈴",
+    "originalName": "Beldum",
+    "category": "時時刻刻冒險 10km",
+    "cp": {
+      "min": 513,
+      "max": 558
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_374_00.png"
+  },
+  {
+    "no": 443,
+    "name": "圓陸鯊",
+    "originalName": "Gible",
+    "category": "時時刻刻冒險 10km",
+    "cp": {
+      "min": 588,
+      "max": 635
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_443_00.png"
+  },
+  {
+    "no": 447,
+    "name": "利歐路",
+    "originalName": "Riolu",
+    "category": "時時刻刻冒險 10km",
+    "cp": {
+      "min": 522,
+      "max": 567
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_447_00.png"
+  },
+  {
+    "no": 587,
+    "name": "電飛鼠",
+    "originalName": "Emolga",
+    "category": "時時刻刻冒險 10km",
+    "cp": {
+      "min": 876,
+      "max": 933
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_587_00.png"
+  },
+  {
+    "no": 599,
+    "name": "齒輪兒",
+    "originalName": "Klink",
+    "category": "時時刻刻冒險 10km",
+    "cp": {
+      "min": 502,
+      "max": 546
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_599_00.png"
+  },
+  {
+    "no": 211,
+    "name": "千針魚",
+    "originalName": "Qwilfish",
+    "category": "12km",
+    "cp": {
+      "min": 1107,
+      "max": 1172
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_211_00.png"
+  },
+  {
+    "no": 246,
+    "name": "幼基拉斯",
+    "originalName": "Larvitar",
+    "category": "12km",
+    "cp": {
+      "min": 548,
+      "max": 594
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_246_00.png"
+  },
+  {
+    "no": 341,
+    "name": "龍蝦小兵",
+    "originalName": "Corphish",
+    "category": "12km",
+    "cp": {
+      "min": 653,
+      "max": 703
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_341_00.png"
+  },
+  {
+    "no": 359,
+    "name": "阿勃梭魯",
+    "originalName": "Absol",
+    "category": "12km",
+    "cp": {
+      "min": 1370,
+      "max": 1443
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_359_00.png"
+  },
+  {
+    "no": 451,
+    "name": "鉗尾蠍",
+    "originalName": "Skorupi",
+    "category": "12km",
+    "cp": {
+      "min": 531,
+      "max": 576
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_451_00.png"
+  },
+  {
+    "no": 551,
+    "name": "黑眼鱷",
+    "originalName": "Sandile",
+    "category": "12km",
+    "cp": {
+      "min": 546,
+      "max": 592
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_551_00.png"
+  },
+  {
+    "no": 559,
+    "name": "滑滑小子",
+    "originalName": "Scraggy",
+    "category": "12km",
+    "cp": {
+      "min": 732,
+      "max": 784
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_559_00.png"
+  },
+  {
+    "no": 624,
+    "name": "駒刀小兵",
+    "originalName": "Pawniard",
+    "category": "12km",
+    "cp": {
+      "min": 765,
+      "max": 819
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_624_00.png"
+  },
+  {
+    "no": 629,
+    "name": "禿鷹丫頭",
+    "originalName": "Vullaby",
+    "category": "12km",
+    "cp": {
+      "min": 675,
+      "max": 726
+    },
+    "shinyAvailable": false,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_629_00.png"
+  },
+  {
+    "no": 633,
+    "name": "單首龍",
+    "originalName": "Deino",
+    "category": "12km",
+    "cp": {
+      "min": 560,
+      "max": 606
+    },
+    "shinyAvailable": true,
+    "regional": false,
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_633_00.png"
+  }
+]

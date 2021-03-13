@@ -1,0 +1,428 @@
+[
+  {
+    "tier": "1",
+    "no": 50,
+    "name": "地鼠 (阿羅拉地區)",
+    "originalName": "Alolan Diglett",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_050_61.png",
+    "shinyAvailable": true,
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/ground.png",
+      "https://leekduck.com/assets/img/types/steel.png"
+    ],
+    "cp": {
+      "min": 352,
+      "max": 389
+    },
+    "boostedCp": {
+      "min": 440,
+      "max": 486
+    },
+    "boostedWeathers": [
+      "sunny",
+      "snowy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/sunny.png",
+      "https://leekduck.com/assets/img/weather/snowy.png"
+    ]
+  },
+  {
+    "tier": "1",
+    "no": 299,
+    "name": "朝北鼻",
+    "originalName": "Nosepass",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_299_00.png",
+    "shinyAvailable": true,
+    "types": [
+      "rock"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/rock.png"
+    ],
+    "cp": {
+      "min": 521,
+      "max": 567
+    },
+    "boostedCp": {
+      "min": 651,
+      "max": 709
+    },
+    "boostedWeathers": [
+      "partlycloudy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/partlycloudy.png"
+    ]
+  },
+  {
+    "tier": "1",
+    "no": 524,
+    "name": "石丸子",
+    "originalName": "Roggenrola",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_524_00.png",
+    "shinyAvailable": true,
+    "types": [
+      "rock"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/rock.png"
+    ],
+    "cp": {
+      "min": 639,
+      "max": 688
+    },
+    "boostedCp": {
+      "min": 799,
+      "max": 860
+    },
+    "boostedWeathers": [
+      "partlycloudy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/partlycloudy.png"
+    ]
+  },
+  {
+    "tier": "1",
+    "no": 529,
+    "name": "螺釘地鼠",
+    "originalName": "Drilbur",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_529_00.png",
+    "shinyAvailable": false,
+    "types": [
+      "ground"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/ground.png"
+    ],
+    "cp": {
+      "min": 732,
+      "max": 786
+    },
+    "boostedCp": {
+      "min": 916,
+      "max": 983
+    },
+    "boostedWeathers": [
+      "sunny"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/sunny.png"
+    ]
+  },
+  {
+    "tier": "1",
+    "no": 597,
+    "name": "種子鐵球",
+    "originalName": "Ferroseed",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_597_00.png",
+    "shinyAvailable": true,
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/grass.png",
+      "https://leekduck.com/assets/img/types/steel.png"
+    ],
+    "cp": {
+      "min": 493,
+      "max": 537
+    },
+    "boostedCp": {
+      "min": 617,
+      "max": 672
+    },
+    "boostedWeathers": [
+      "sunny",
+      "snowy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/sunny.png",
+      "https://leekduck.com/assets/img/weather/snowy.png"
+    ]
+  },
+  {
+    "tier": "1",
+    "no": 599,
+    "name": "齒輪兒",
+    "originalName": "Klink",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_599_00.png",
+    "shinyAvailable": true,
+    "types": [
+      "steel"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/steel.png"
+    ],
+    "cp": {
+      "min": 502,
+      "max": 546
+    },
+    "boostedCp": {
+      "min": 628,
+      "max": 683
+    },
+    "boostedWeathers": [
+      "snowy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/snowy.png"
+    ]
+  },
+  {
+    "tier": "3",
+    "no": 75,
+    "name": "隆隆石 (阿羅拉地區)",
+    "originalName": "Alolan Graveler",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_075_61.png",
+    "shinyAvailable": false,
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/rock.png",
+      "https://leekduck.com/assets/img/types/electric.png"
+    ],
+    "cp": {
+      "min": 1023,
+      "max": 1084
+    },
+    "boostedCp": {
+      "min": 1278,
+      "max": 1355
+    },
+    "boostedWeathers": [
+      "partlycloudy",
+      "rainy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/partlycloudy.png",
+      "https://leekduck.com/assets/img/weather/rainy.png"
+    ]
+  },
+  {
+    "tier": "3",
+    "no": 82,
+    "name": "三合一磁怪",
+    "originalName": "Magneton",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_082_00.png",
+    "shinyAvailable": false,
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/electric.png",
+      "https://leekduck.com/assets/img/types/steel.png"
+    ],
+    "cp": {
+      "min": 1348,
+      "max": 1420
+    },
+    "boostedCp": {
+      "min": 1686,
+      "max": 1775
+    },
+    "boostedWeathers": [
+      "rainy",
+      "snowy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/rainy.png",
+      "https://leekduck.com/assets/img/weather/snowy.png"
+    ]
+  },
+  {
+    "tier": "3",
+    "no": 227,
+    "name": "盔甲鳥",
+    "originalName": "Skarmory",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_227_00.png",
+    "shinyAvailable": true,
+    "types": [
+      "steel",
+      "flying"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/steel.png",
+      "https://leekduck.com/assets/img/types/flying.png"
+    ],
+    "cp": {
+      "min": 1139,
+      "max": 1204
+    },
+    "boostedCp": {
+      "min": 1424,
+      "max": 1506
+    },
+    "boostedWeathers": [
+      "snowy",
+      "windy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/snowy.png",
+      "https://leekduck.com/assets/img/weather/windy.png"
+    ]
+  },
+  {
+    "tier": "3",
+    "no": 375,
+    "name": "金屬怪",
+    "originalName": "Metang",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_375_00.png",
+    "shinyAvailable": false,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/steel.png",
+      "https://leekduck.com/assets/img/types/psychic.png"
+    ],
+    "cp": {
+      "min": 925,
+      "max": 983
+    },
+    "boostedCp": {
+      "min": 1156,
+      "max": 1229
+    },
+    "boostedWeathers": [
+      "snowy",
+      "windy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/snowy.png",
+      "https://leekduck.com/assets/img/weather/windy.png"
+    ]
+  },
+  {
+    "tier": "5",
+    "no": 642,
+    "name": "雷電雲 (化身形態)",
+    "originalName": "Thundurus (Incarnate)",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_642_11.png",
+    "shinyAvailable": true,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/electric.png",
+      "https://leekduck.com/assets/img/types/flying.png"
+    ],
+    "cp": {
+      "min": 1828,
+      "max": 1911
+    },
+    "boostedCp": {
+      "min": 2285,
+      "max": 2389
+    },
+    "boostedWeathers": [
+      "rainy",
+      "windy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/rainy.png",
+      "https://leekduck.com/assets/img/weather/windy.png"
+    ]
+  },
+  {
+    "tier": "mega",
+    "no": 9,
+    "name": "Mega 水箭龜",
+    "originalName": "Mega Blastoise",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_009_51.png",
+    "shinyAvailable": true,
+    "types": [
+      "water"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/water.png"
+    ],
+    "cp": {
+      "min": 1338,
+      "max": 1409
+    },
+    "boostedCp": {
+      "min": 1673,
+      "max": 1761
+    },
+    "boostedWeathers": [
+      "rainy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/rainy.png"
+    ]
+  },
+  {
+    "tier": "mega",
+    "no": 18,
+    "name": "Mega 大比鳥",
+    "originalName": "Mega Pidgeot",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_018_51.png",
+    "shinyAvailable": true,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/normal.png",
+      "https://leekduck.com/assets/img/types/flying.png"
+    ],
+    "cp": {
+      "min": 1151,
+      "max": 1216
+    },
+    "boostedCp": {
+      "min": 1439,
+      "max": 1521
+    },
+    "boostedWeathers": [
+      "partlycloudy",
+      "windy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/partlycloudy.png",
+      "https://leekduck.com/assets/img/weather/windy.png"
+    ]
+  },
+  {
+    "tier": "mega",
+    "no": 181,
+    "name": "Mega 電龍",
+    "originalName": "Mega Ampharos",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_181_51.png",
+    "shinyAvailable": true,
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/electric.png",
+      "https://leekduck.com/assets/img/types/dragon.png"
+    ],
+    "cp": {
+      "min": 1554,
+      "max": 1630
+    },
+    "boostedCp": {
+      "min": 1943,
+      "max": 2037
+    },
+    "boostedWeathers": [
+      "rainy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/rainy.png"
+    ]
+  }
+]
